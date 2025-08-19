@@ -1,0 +1,9 @@
+﻿  MainGame.cpp
+  Skybox.cpp
+  Texture.cpp
+  main.cpp
+C:\Users\matty\Documents\Games Programming 2\Lab4\Lab4\Lab1\Macros.h(9,25): warning C4244: 'initializing': conversion from 'double' to 'const short', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  Generating Code...
+  Lab1.vcxproj -> C:\Users\matty\Documents\Games Programming 2\Lab4\Lab4\Debug\Lab1.exe
